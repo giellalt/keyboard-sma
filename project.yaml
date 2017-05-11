@@ -1,0 +1,38 @@
+internalName: sma_keyboard
+
+locales:
+  en:
+    name: &bundleName "Southern Sami Keyboards"
+    description: "Mobile OS keyboards for the Southern Sami language from the Divvun group at UiT."
+  nb:
+    name: "Southern Sami tastatur"
+    description: "Mobiltastatur for Southern Sami fra Divvun-gruppa."
+
+author: The Divvun Group, UiT Norgga árktalaš universitehta
+email: feedback@divvun.no
+
+copyright: (c) 2017 Divvun/Giellatekno/UiT
+organisation: UiT Norgga árktalaš universitehta
+
+layouts: [sma]
+
+version: 1.0
+build: 1
+
+targets:
+  android:
+    packageId: no.uit.giella.keyboards.sma
+    icon: images/sma-icon.pdf
+    keyStore: /Users/brendan/git/softkbdgen/test.keystore
+    keyAlias: sma_keyboard
+
+  ios: &AppleID
+    codeSignId: "iOS Development"
+    provisioningProfileId: Test
+    packageId: no.uit.giella.keyboards.sma
+    bundleName: *bundleName
+    icon: images/sma-icon.png
+  osx:
+    <<: *AppleID
+    icon: images/sma-icon.png
+    codeSignId: "my-test-installer"
