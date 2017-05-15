@@ -1,14 +1,14 @@
 ### Generated from sv-t-k0-osx.xml on 2017-05-15 at 13:32.
 
-internalName: sma_SW-desktop
+internalName: sma_SE-desktop
 
 displayNames:
-  sma: Åarjelsaemien gïele
-  en: South Sami
-  fi: Eteläsaame
-  nb: Sørsamisk
-  se: Lullisámegiella
-  sv: Sydsamiska
+  sma: Åarjelsaemien gïele (Sveerje)
+  en: South Sami (Sweden)
+  fi: Eteläsaame (Ruotsi)
+  nb: Sørsamisk (Sverige)
+  se: Lullisámegiella (Ruoŧŧa)
+  sv: Sydsamiska (Sverige)
 
 locale: sma
 
