@@ -1,4 +1,4 @@
-### Generated from sv-t-k0-osx.xml on 2017-05-15 at 13:32.
+### Generated from sv-t-k0-osx-extended.xml on 2017-05-16 at 19:19.
 
 internalName: sma_SE-mac
 
@@ -15,40 +15,40 @@ locale: sma
 modes:
   # default
   iso-default: |
-    § 1 2 3 4 5 6 7 8 9 0 + ´
+    < 1 2 3 4 5 6 7 8 9 0 + ´
     ï w e r t y u i o p å ¨
     a s d f g h j k l ö æ '
-    < z x c v b n m , . -
+    § z x c v b n m , . -
   # shift+caps?
   iso-shift: |
-    ° ! " # € % & / ( ) = ? `
+    > ! " # € % & / ( ) = ? `
     Ï W E R T Y U I O P Å ^
     A S D F G H J K L Ö Æ *
-    > Z X C V B N M ; : _
+    ° Z X C V B N M ; : _
   # caps+cmd?
   iso-caps: |
-    § 1 2 3 4 5 6 7 8 9 0 + ´
+    < 1 2 3 4 5 6 7 8 9 0 + ´
     Ï W E R T Y U I O P Å ¨
     A S D F G H J K L Ö Æ '
-    < Z X C V B N M , . -
+    § Z X C V B N M , . -
   # opt
   iso-alt: |
-    ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
+    ≤ © @ £ $ ∞ § | [ ] ≈ ± ´
     q Ω é ® † µ ü ı œ π ˙ ~
-     ß ∂ ƒ ¸ ˛ √ ª ﬁ ø ä @
-    ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
+     ß ∂ ƒ ¸ ˛ √ ª ﬁ ø ä ™
+    ¶ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
   # opt+shift+cmd?+caps?
   iso-alt+shift: |
-    • ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
+    ≥ ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
     Q ˝ É √ ‡ ˜ Ü ˆ Œ ∏ ˚ ^
     ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Ä ’
-    ≥ ⁄ ˇ Ç « » “ ” „ · —
+    • ⁄ ˇ Ç « » “ ” „ · —
   # opt+caps+cmd?
   iso-caps+alt: |
-    ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
+    ≤ © @ £ $ ∞ § | [ ] ≈ ± ´
     Q Ω É ® † µ Ü ı Œ π ˙ ~
-     ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä @
-    ≤ ÷ ≈ Ç ‹ › ‘ ’ ‚ … –
+     ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä ™
+    ¶ ÷ ≈ Ç ‹ › ‘ ’ ‚ … –
   # ctrl+opt?+caps?+shift? ctrl+cmd?+opt?+shift? ctrl+cmd?+opt?+caps? cmd+ctrlR+opt+caps+shift cmd+ctrlL+opt+caps+shift cmd+ctrl+caps+shift+optR? cmd+ctrl+caps+shift+optL? cmd+ctrl+opt+caps+shiftR? cmd+ctrl+opt+caps+shiftL?
   iso-ctrl: |
     < 1 2 3 4 5 6 7 8 9 0 + ´
@@ -57,10 +57,10 @@ modes:
     < \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . \u{1F}
   # cmd+opt
   osx-cmd+alt: |
-    ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
+    ≤ © @ £ $ ∞ § | [ ] ≈ ± ´
     • Ω é ® † µ ü ı œ π ˙ ~
-    \u{F8FF} ß ∂ ƒ ¸ ˛ √ ª ﬁ ø æ @
-    ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
+     ß ∂ ƒ ¸ ˛ √ ª ﬁ ø æ ™
+    ¶ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
 
 deadKeys:
   iso-default: ['¨', '´']
@@ -94,6 +94,8 @@ transforms:
     O: Ó
     u: ú
     U: Ú
+    y: ý
+    Y: Ý
   ^:
     " ": ^
     a: â
