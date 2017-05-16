@@ -3,12 +3,12 @@
 internalName: sma_SE-desktop
 
 displayNames:
-  sma: Åarjelsaemien gïele (Sveerje)
-  en: South Sami (Sweden)
-  fi: Eteläsaame (Ruotsi)
-  nb: Sørsamisk (Sverige)
-  se: Lullisámegiella (Ruoŧŧa)
-  sv: Sydsamiska (Sverige)
+  sma: Åarjelsaemien gïele, Mac (Sveerje)
+  en: South Sami, Mac (Sweden)
+  fi: Eteläsaame, Mac (Ruotsi)
+  nb: Sørsamisk, Mac (Sverige)
+  se: Lullisámegiella, Mac (Ruoŧŧa)
+  sv: Sydsamiska, Mac (Sverige)
 
 locale: sma
 
