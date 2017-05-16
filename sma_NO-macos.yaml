@@ -33,21 +33,21 @@ modes:
     < Z X C V B N M , . -
   # opt
   iso-alt: |
-    € © ™ £ € ∞ § | [ ] ≈ ± `
+    € © ™    £  € ∞ § | [ ] ≈ ± `
     q Ω é \u{0} † µ ü ı œ π ˙ ~
-    \u{F8FF} ß ∂ ƒ ¸ ˛ √ ª ﬁ ø ä '
-    ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
+     ß ∂    ƒ  ¸ ˛ √ ª ﬁ ø ä '
+    ≤ ÷ ≈    ç  ‹ › ‘ ’ ‚ … –
   # opt+shift+cmd?+caps?
   iso-alt+shift: |
-    Ÿ ¡ ® ¥ ¢ ‰ ¶ \ { } ≠ ¿ \u{0}
-    Q ˝ É \u{0} ‡ ˜ Ü ˆ Œ ∏ ˚ ^
-    ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Ä \u{0}
-    ≥ ⁄ \u{0} Ç « » “ ” „ · —
+    Ÿ ¡    ®    ¥  ¢ ‰ ¶ \ { } ≠    ¿ \u{0}
+    Q ˝    É \u{0} ‡ ˜ Ü ˆ Œ ∏ ˚    ^
+    ◊ ∑    ∆    ∫  ¯ ˘ ¬ º ﬂ Ø Ä \u{0}
+    ≥ ⁄ \u{0}   Ç  « » “ ” „ · —
   # opt+caps+cmd?
   iso-caps+alt: |
     € © ™ £ € ∞ § | [ ] ≈ ± `
     Q Ω É \u{0} † µ Ü ı Œ π ˙ ~
-    \u{F8FF} ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä '
+     ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä '
     ≤ ÷ Ù Ç ‹ › ‘ ’ ‚ … –
   # ctrl+opt?+caps?+shift? ctrl+cmd?+opt?+shift? ctrl+cmd?+opt?+caps? cmd+ctrlR+opt+caps+shift cmd+ctrlL+opt+caps+shift cmd+ctrl+caps+shift+optR? cmd+ctrl+caps+shift+optL? cmd+ctrl+opt+caps+shiftR? cmd+ctrl+opt+caps+shiftL?
   iso-ctrl: |
