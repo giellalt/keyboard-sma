@@ -14,8 +14,7 @@ email: feedback@divvun.no
 copyright: (c) 2017 Divvun/Giellatekno/UiT
 organisation: UiT Norgga árktalaš universitehta
 
-#layouts: [sma-mobile, sma_NO-macos, sma_SE-macos, sma_NO-windows, sma_SE-windows]
-layouts: [sma_NO-macos, sma_SE-macos, sma_NO-windows, sma_SE-windows]
+layouts: [sma-mobile, sma_NO-macos, sma_SE-macos, sma_NO-windows, sma_SE-windows]
 
 version: 1.0
 build: 1

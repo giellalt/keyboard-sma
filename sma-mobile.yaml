@@ -10,6 +10,8 @@ displayNames:
 
 locale: sma
 
+supportedTargets: [ios, android]
+
 modes:
   mobile-default: |
     q w e r t y u i o p å

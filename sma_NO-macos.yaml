@@ -12,6 +12,8 @@ displayNames:
 
 locale: sma
 
+supportedTargets: [osx, x11, svg]
+
 modes:
   # default
   iso-default: |
