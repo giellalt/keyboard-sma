@@ -2,12 +2,12 @@
 internalName: sma_SE-windows
 
 displayNames:
-  sma: Åarjelsaemien gïele, Windows (Sveerje)
-  en: South Sami, Windows (Sweden)
-  fi: Eteläsaame, Windows (Ruotsi)
-  nb: Sørsamisk, Windows (Sverige)
-  se: Lullisámegiella, Windows (Ruoŧŧa)
-  sv: Sydsamiska, Windows (Sverige)
+  sma: Åarjelsaemien gïele (Sveerje)
+  en: South Sami (Sweden)
+  fi: Eteläsaame (Ruotsi)
+  nb: Sørsamisk (Sverige)
+  se: Lullisámegiella (Ruoŧŧa)
+  sv: Sydsamiska (Sverige)
 
 locale: sma
 
