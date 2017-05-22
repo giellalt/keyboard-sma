@@ -71,13 +71,13 @@ modes:
     > Z X C V B N M ; : _
   # "
   # cmd+opt
-  osx-cmd-alt: |
+  osx-cmd+alt: |
     ¶ © ™ £ $ ∞ § | [ ] ≈ ± ´
     • Ω é ® † µ ü ı œ π ˙ ~
      ß ∂ ƒ ¸ ˛ √ ª ﬁ ø æ @
     ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
   # opt+shift+cmd?+caps?
-  osx-cmd-alt+shift: |
+  osx-cmd+alt+shift: |
     • ¡ ” ¥ ¢ ‰ ¶ \ { } ≠ ¿ `
     ° ˝ É √ ‡ ˜ Ü ˆ Œ ∏ ˚ ^
     ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Æ ’
