@@ -38,3 +38,5 @@ targets:
     codeSignId: "Developer ID Installer: The University of Tromso (2K5J2584NX)"
     version: 1.0.0-beta2
     resources: doc
+    readme: readme.html
+    background: background.png
