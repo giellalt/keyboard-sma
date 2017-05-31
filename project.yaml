@@ -32,6 +32,7 @@ targets:
     packageId: no.uit.giella.keyboards.sma
     bundleName: *bundleName
     icon: images/sma-icon.png
+
   osx:
     <<: *AppleID
     icon: images/sma-keyboard-menu-icon.png
