@@ -1,4 +1,4 @@
-internalName: sma_keyboard
+internalName: sma
 
 locales:
   en:
@@ -29,7 +29,7 @@ targets:
   ios: &AppleID
     codeSignId: "Developer ID Installer: The University of Tromso (2K5J2584NX)"
     provisioningProfileId: Test
-    packageId: no.uit.giella.keyboards.sma
+    packageId: no.uit.giella
     bundleName: *bundleName
     icon: images/sma-icon.png
 

@@ -1,10 +1,13 @@
-internalName: sma_keyboard
+internalName: sma
 
 displayNames:
   sma: Åarjelsaemien gïele
   en: South Sami
   fi: Eteläsaame
   nb: Sørsamisk
+  'no': Sørsamisk (Sverige)
+  nn: Sørsamisk (Sverige)
+  da: Sydsamisk (Sverige)
   se: Lullisámegiella
   sv: Sydsamiska
 
