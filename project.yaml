@@ -45,4 +45,4 @@ targets:
     appName: *bundleName
     version: 1.0.0-beta1
     url: "http://divvun.no"
-    uuid: "26d74558-ddad-4bcf-a65a-84c03fb63f6d"
+    uuid: "26D74558-DDAD-4BCF-A65A-84C03FB63F6D"
