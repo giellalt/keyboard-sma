@@ -16,6 +16,10 @@ locale: sma
 
 supportedTargets: [win, x11, svg]
 
+targets:
+  win:
+    locale: sma-Latn-SE
+
 modes:
   # default
   iso-default: |
