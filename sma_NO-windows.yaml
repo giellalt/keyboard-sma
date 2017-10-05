@@ -19,6 +19,7 @@ supportedTargets: [win, x11, svg]
 targets:
   win:
     locale: sma-Latn-NO
+    languageName: Åarjelsaemien gïele (Nöörje)
 
 modes:
   # default
