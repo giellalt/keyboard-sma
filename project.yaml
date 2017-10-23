@@ -36,13 +36,13 @@ targets:
   osx:
     <<: *AppleID
     icon: images/sma-keyboard-menu-icon.png
-    version: 1.0.0-beta4
+    version: 1.0.0
     resources: doc
     readme: readme.html
     background: background.png
 
   win:
     appName: *bundleName
-    version: 1.0.0-beta5
+    version: 1.0.0
     url: "http://divvun.no"
     uuid: "26D74558-DDAD-4BCF-A65A-84C03FB63F6D"
