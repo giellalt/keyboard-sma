@@ -4,3 +4,4 @@ packageId: no.uit.giella.keyboards.sma
 bundleName: Southern Sami Keyboards
 icon: images/sma-keyboard-menu-icon.png
 version: 1.0.1
+build: 1
