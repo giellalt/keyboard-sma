@@ -197,9 +197,9 @@ jobs:
       kbdgen -R -t android --ci -o output --github-username $GITHUB_USERNAME --github-token $GITHUB_TOKEN --logging debug .
       # todo: fix this when kbdgen naming works
       cp "$(System.DefaultWorkingDirectory)/sma.kbdgen/output/-"$TARGET_VERSION"_release.apk" "$(System.DefaultWorkingDirectory)/sma.kbdgen/output/keyboard-sma.apk"
-      pushd output/deps/giella-ime
-      ./gradlew publishApk
-      popd
+      #pushd output/deps/giella-ime
+      #./gradlew publishApk
+      #popd
     displayName: 'Run kbdgen'
   - task: PublishBuildArtifacts@1
     inputs:
