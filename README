@@ -1,7 +1,7 @@
 .. -*- mode: rst -*-
-==========================================
- Keyboards for the Southern Sami language
-==========================================
+======================================
+ Keyboards for the South Sami language
+======================================
 
 This directory contains source files and build instructions for developing
 keyboards for the Southern Sami language. The data and implementations
