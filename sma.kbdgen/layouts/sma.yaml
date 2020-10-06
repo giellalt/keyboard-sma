@@ -251,9 +251,9 @@ strings:
 targets:
   ios:
     legacyName: south_sami_keyboard
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sma?channel=nightly&platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sma?platform=mobile
     spellerPath: sma.bhfst
   android:
     legacyName: south_sami_keyboard
-    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sma?channel=nightly&platform=mobile
+    spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sma?platform=mobile
     spellerPath: sma.bhfst
