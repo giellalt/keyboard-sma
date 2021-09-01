@@ -113,6 +113,16 @@ modes:
             Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
             Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
       \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
+
+deadKeys:
+  mac:
+    default: [´]
+    shift: ['`']
+    caps: [´]
+    alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸, '\u{A0}\u{330}']
+    alt+shift: [ʔ, №, ˆ]
+    caps+alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸]
+
 transforms:
   '\u{A0}\u{330}':
     ' ': '\u{A0}\u{330}'
@@ -675,6 +685,10 @@ transforms:
     O: Õ
     u: ũ
     U: Ũ
+
+# Needed to get the numpad to output , instead of . as the decimal symbol:
+decimal: ','
+
 space:
   mac:
     caps: '\u{A0}'
@@ -682,14 +696,7 @@ space:
     alt+shift: '\u{A0}'
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
-deadKeys:
-  mac:
-    default: [´]
-    shift: ['`']
-    caps: [´]
-    alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸, '\u{A0}\u{330}']
-    alt+shift: [ʔ, №, ˆ]
-    caps+alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸]
+
   win:
     shift: ['`']
     caps+shift: ['`']

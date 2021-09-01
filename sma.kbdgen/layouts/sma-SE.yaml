@@ -113,6 +113,23 @@ modes:
             Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} ^
             Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     \u{0}
       \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
+
+deadKeys:
+  mac:
+    default: [´]
+    shift: ['`']
+    caps: [´]
+    alt: [¨, '~']
+    alt+shift: [^]
+    caps+alt: [¨, '~']
+  win:
+    default: [´]
+    shift: ['`']
+    caps: [´]
+    caps+shift: ['`']
+    alt: [¨, '~']
+    alt+shift: [^]
+
 transforms:
   '`':
     ' ': '`'
@@ -218,27 +235,17 @@ transforms:
     I: Ĩ
     u: ũ
     U: Ũ
+
+# Needed to get the numpad to output , instead of . as the decimal symbol:
+decimal: ','
+
 space:
   mac:
     alt: '\u{A0}'
     alt+shift: '\u{A0}'
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
-deadKeys:
-  mac:
-    default: [´]
-    shift: ['`']
-    caps: [´]
-    alt: [¨, '~']
-    alt+shift: [^]
-    caps+alt: [¨, '~']
-  win:
-    default: [´]
-    shift: ['`']
-    caps: [´]
-    caps+shift: ['`']
-    alt: [¨, '~']
-    alt+shift: [^]
+
 targets:
   win:
     locale: sma-Latn-SE
