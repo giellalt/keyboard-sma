@@ -697,11 +697,6 @@ space:
     caps+alt: '\u{A0}'
     cmd+alt: '\u{A0}'
 
-  win:
-    shift: ['`']
-    caps+shift: ['`']
-    alt: [¨, '~', ´]
-    alt+shift: [^]
 targets:
   win:
     locale: sma-Latn-NO
