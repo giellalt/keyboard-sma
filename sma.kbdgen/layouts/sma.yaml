@@ -92,7 +92,6 @@ deadKeys:
     default:   ['`', '´']
     shift:     ['`']
     symbols-1: [^, ¨]
-deadKeys:
   ipad-9in:
     default:   ['`', '´']
     shift:     ['`']
