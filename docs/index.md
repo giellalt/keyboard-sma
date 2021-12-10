@@ -1,4 +1,4 @@
-The Readme accompanying the installer can be read here in various
+# Documentation for the __UNDEFINED__ keyboards
 languages:
 
 -   [English](en.lproj/readme.html)
