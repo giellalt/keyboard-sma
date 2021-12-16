@@ -38,7 +38,7 @@ tasks:
         deadline:
           $fromNow: 1 day
         scopes:
-          - "assume:repo:github.com/Eijebong/keyboard-sma:${branch}"
+          - "assume:repo:github.com/${repo_full_name}:${branch}"
           - "object:upload:divvun:private/*"
         payload:
           maxRunTime: 3600
