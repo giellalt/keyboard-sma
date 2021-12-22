@@ -34,7 +34,7 @@ tasks:
           description: ''
           owner: ${event.sender.login}@users.noreply.github.com
           source: ${event.repository.url}
-        taskQueueId: test/linux
+        taskQueueId: divvun/linux
         deadline:
           $fromNow: 1 day
         scopes:
