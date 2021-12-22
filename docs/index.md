@@ -1,4 +1,4 @@
-# Documentation for the __UNDEFINED__ keyboards
+# Documentation for the Southern Sami keyboards
 languages:
 
 -   [English](en.lproj/readme.html)
