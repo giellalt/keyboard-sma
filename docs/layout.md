@@ -1,4 +1,4 @@
-# Layouts for South Sámi
+# Keyboard layout(s) for South Sámi
 
 **Legend:**
 
