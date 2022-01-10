@@ -8,18 +8,18 @@
 |**Deadkey** | green   | orange       | pink                    | green                    |
 
 
-## Åarjelsaemien gïele, Mac (Nöörje)
+# Åarjelsaemien gïele, Mac (Nöörje)
 
 ![](sma_NO-mac.svg)
 
-## Åarjelsaemien gïele, Windows (Nöörje)
+# Åarjelsaemien gïele, Windows (Nöörje)
 
 ![](sma_NO-windows.svg)
 
-## Åarjelsaemien gïele, Mac (Sveerje)
+# Åarjelsaemien gïele, Mac (Sveerje)
 
 ![](sma_SE-mac.svg)
 
-## Åarjelsaemien gïele, Windows (Sveerje)
+# Åarjelsaemien gïele, Windows (Sveerje)
 
 ![](sma_SE-windows.svg)
