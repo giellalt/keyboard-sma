@@ -76,6 +76,7 @@ tasks:
             GIT_URL: ${event.repository.clone_url}
             TASK_FOR: ${tasks_for}
             GIT_REF: ${event.ref}
+            GITHUB_REF: ${event.ref}
             GIT_SHA: ${event.after}
             TASK_OWNER: ${event.pusher.name}@users.noreply.github.com
             TASK_SOURCE: ${event.compare}
