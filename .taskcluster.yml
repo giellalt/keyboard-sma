@@ -39,7 +39,7 @@ tasks:
           $fromNow: 1 day
         scopes:
           - "assume:repo:github.com/${repo_full_name}:${branch}"
-          - "object:upload:divvun:private/*"
+          - "object:upload:divvun:*"
         payload:
           maxRunTime: 3600
           # TODO: Change this to a set tag and push dockerfile
