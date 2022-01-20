@@ -22,7 +22,10 @@ tasks:
     branch:
         $if: "event.ref[:11] == 'refs/heads/'"
         then: "branch:${event.ref[11:]}"
-        else: "pull-request"
+        else:
+          $if: "event.ref[:10] == 'refs/tags/'"
+          then: "tag:${event.ref[10:]}"
+          else: "pull-request"
     should_run:
       $match:
         (tasks_for == "github-push") || (tasks_for == "github-pull-request" && event["action"] in ["opened","reopened","synchronize"]):
