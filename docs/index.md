@@ -17,17 +17,3 @@ This means that everything that is not specific to South Sami is exactly where i
 # Other information
 
 Add text and links as necessary.
-
-Test:
-
-Is this now true? Test!
-
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
-Will it look like a graph?
