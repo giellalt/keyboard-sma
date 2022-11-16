@@ -9,127 +9,141 @@ displayNames:
   se: Lullisámegiella (Ruoŧŧa)
   sv: Sydsamiska (Sverige)
   sma-SE: Åarjelsaemien gïele (Sveerje)
-modes:
-  mac:
-    default: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ '
-      < z x c v b n m , . -
-    shift: |
-      ° ! " # € % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ '
-      < Z X C V B N M , . -
-    alt: |
-      ¶ © @ £ $ ∞ § | [ ] ≈ ± ´
-        • Ω é ® † µ ü ı œ π ˙ ¨
-         ß ∂ ƒ ¸ ˛ √ ª ﬁ ø ä ~
-      ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
-    alt+shift: |
-      • ¡ ” ¥ ¢ ‰ ™ \ { } ≠ ¿ `
-        ° ˝ É √ ‡ ˜ Ü ˆ Œ ∏ ˚ ^
-        ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Ä ’
-      ≥ ⁄ ˇ Ç « » “ ” „ · —
-    caps+alt: |
-      ¶ © @ £ $ ∞ § | [ ] ≈ ± ´
-        • Ω É ® † µ Ü ı Œ π ˙ ¨
-         ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä ~
-      ≤ ÷ ≈ Ç ‹ › ‘ ’ ‚ … –
-    ctrl: |
-      < 1      2      3     4      5       6     7      8     9     0      +      ´
-        \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1D} \u{1E}
-        \u{1}  \u{13} \u{4} \u{6}  \u{7}  \u{8}  \u{A}  \u{B} \u{C} \u{1C} \u{1B} '
-      < \u{1A} \u{18} \u{3} \u{16} \u{2}  \u{E}  \u{D}  ,     .     \u{1F}
-  win:
-    default: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ '
-      < z x c v b n m , . -
-    shift: |
-      ½ ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ '
-      < Z X C V B N M , . -
-    caps+shift: |
-      ½ ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ *
-      > z x c v b n m ; : _
-    alt: |
-      \u{0} \u{0} @     £ $     € \u{0} {     [     ]     }     \     \u{0}
-            â     \u{0} € \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
-            á     š     đ ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
-      |     ž     \u{0} č ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
-    alt+shift: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-            Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} ^
-            Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     \u{0}
-      \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
-    ctrl: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-  chrome:
-    default: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ '
-      < z x c v b n m , . -
-    shift: |
-      ½ ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      § 1 2 3 4 5 6 7 8 9 0 + ´
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ '
-      < Z X C V B N M , . -
-    caps+shift: |
-      ½ ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ *
-      > z x c v b n m ; : _
-    alt: |
-      \u{0} \u{0} @     £ $     € \u{0} {     [     ]     }     \     \u{0}
-            â     \u{0} € \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
-            á     š     đ ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
-      |     ž     \u{0} č ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
-    alt+shift: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-            Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} ^
-            Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     \u{0}
-      \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
-
-deadKeys:
-  mac:
-    default: [´]
+decimal: ','
+macOS:
+  primary:
+    layers:
+      default: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ '
+        < z x c v b n m , . -
+      shift: |
+        ° ! " # € % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ '
+        < Z X C V B N M , . -
+      alt: |
+        ¶ © @ £ $ ∞ § | [ ] ≈ ± ´
+          • Ω é ® † µ ü ı œ π ˙ ¨
+           ß ∂ ƒ ¸ ˛ √ ª ﬁ ø ä ~
+        ≤ ÷ ≈ ç ‹ › ‘ ’ ‚ … –
+      alt+shift: |
+        • ¡ ” ¥ ¢ ‰ ™ \ { } ≠ ¿ `
+          ° ˝ É √ ‡ ˜ Ü ˆ Œ ∏ ˚ ^
+          ◊ ∑ ∆ ∫ ¯ ˘ ¬ º ﬂ Ø Ä ’
+        ≥ ⁄ ˇ Ç « » “ ” „ · —
+      ctrl: |
+        < 1      2      3     4      5       6     7      8     9     0      +      ´
+          \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1D} \u{1E}
+          \u{1}  \u{13} \u{4} \u{6}  \u{7}  \u{8}  \u{A}  \u{B} \u{C} \u{1C} \u{1B} '
+        < \u{1A} \u{18} \u{3} \u{16} \u{2}  \u{E}  \u{D}  ,     .     \u{1F}
+      alt+caps: |
+        ¶ © @ £ $ ∞ § | [ ] ≈ ± ´
+          • Ω É ® † µ Ü ı Œ π ˙ ¨
+           ß ∂ ƒ ¸ ˛ √ ª ﬁ Ø Ä ~
+        ≤ ÷ ≈ Ç ‹ › ‘ ’ ‚ … –
+  space:
+    alt: \u{A0}
+    alt+shift: \u{A0}
+    cmd+alt: \u{A0}
+    alt+caps: \u{A0}
+  deadKeys:
+    default: ['´']
     shift: ['`']
-    caps: [´]
-    alt: [¨, '~']
-    alt+shift: [^]
-    caps+alt: [¨, '~']
-  win:
-    default: [´]
+    caps: ['´']
+    alt: ['¨', '~']
+    alt+shift: ['^']
+    alt+caps: ['¨', '~']
+windows:
+  config:
+    locale: sma-Latn-SE
+    languageName: Åarjelsaemien gïele (Sveerje)
+  primary:
+    layers:
+      default: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ '
+        < z x c v b n m , . -
+      shift: |
+        ½ ! " # ¤ % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ '
+        < Z X C V B N M , . -
+      caps+shift: |
+        ½ ! " # ¤ % & / ( ) = ? `
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ *
+        > z x c v b n m ; : _
+      alt: |
+        \u{0} \u{0} @     £ $     € \u{0} {     [     ]     }     \     \u{0}
+              â     \u{0} € \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
+              á     š     đ ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
+        |     ž     \u{0} č ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
+      alt+shift: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+              Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} ^
+              Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     \u{0}
+        \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
+      ctrl: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+  deadKeys:
+    default: ['´']
     shift: ['`']
-    caps: [´]
+    caps: ['´']
     caps+shift: ['`']
-    alt: [¨, '~']
-    alt+shift: [^]
-
+    alt: ['¨', '~']
+    alt+shift: ['^']
+chromeOS:
+  config:
+    locale: sv
+    xkbLayout: se
+  primary:
+    layers:
+      default: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ '
+        < z x c v b n m , . -
+      shift: |
+        ½ ! " # ¤ % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        § 1 2 3 4 5 6 7 8 9 0 + ´
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ '
+        < Z X C V B N M , . -
+      caps+shift: |
+        ½ ! " # ¤ % & / ( ) = ? `
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ *
+        > z x c v b n m ; : _
+      alt: |
+        \u{0} \u{0} @     £ $     € \u{0} {     [     ]     }     \     \u{0}
+              â     \u{0} € \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
+              á     š     đ ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
+        |     ž     \u{0} č ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
+      alt+shift: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+              Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} ^
+              Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     \u{0}
+        \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
 transforms:
   '`':
     ' ': '`'
@@ -236,20 +250,3 @@ transforms:
     u: ũ
     U: Ũ
 
-# Needed to get the numpad to output , instead of . as the decimal symbol:
-decimal: ','
-
-space:
-  mac:
-    alt: '\u{A0}'
-    alt+shift: '\u{A0}'
-    caps+alt: '\u{A0}'
-    cmd+alt: '\u{A0}'
-
-targets:
-  win:
-    locale: sma-Latn-SE
-    languageName: Åarjelsaemien gïele (Sveerje)
-  chrome:
-    locale: sv
-    xkbLayout: se

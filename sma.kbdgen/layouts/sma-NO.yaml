@@ -9,128 +9,143 @@ displayNames:
   se: Lullisámegiella (Norga)
   sv: Sydsamiska (Norge)
   sma-NO: Åarjelsaemien gïele (Nöörje)
-modes:
-  mac:
-    default: |
-      ' 1 2 3 4 5 6 7 8 9 0 + ´
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ @
-      < z x c v b n m , . -
-    shift: |
-      § ! " # $ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      ' 1 2 3 4 5 6 7 8 9 0 + ´
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ @
-      < Z X C V B N M , . -
-    alt: |
-      ' © ™ £ € ‸ § |             [ ] ˝ ± \u{301}
-        • , é ˇ þ ˘ ˀ             ʼ œ ˙ ˚ ¨
-        ¯ ß ð ƒ . ˛ \u{A0}\u{330} ˜ - ø ä '
-      ≤ ÷ ˍ ¸ ‹ › ‘ ’             ‚ … –
-    alt+shift: |
-      § ¡       ®       ¥       ¢       \u{32D} ¶       \       {       }       \u{30B} ¿       \u{300}
-        °       \u{326} É       \u{30C} Þ       \u{306} \u{309} \u{31B} Œ       \u{307} \u{30A} ˆ
-        \u{304} №       Ð       ʔ       \u{323} \u{328} \u{330} \u{303} \u{335} Ø       Ä       "
-      ≥ ⁄       \u{331} \u{327} «       »       “       ”       „       ·       —
-    caps+alt: |
-      ' © ™ £ € ‸ § | [ ] ˝ ± \u{301}
-        • , É ˇ Þ ˘ ˀ ʼ Œ ˙ ˚ ¨
-        ¯ SS Ð ƒ . ˛ \u{A0}\u{330} ˜ - Ø Ä '
-      ≤ ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
-    ctrl: |
-      ` 1 2 3 4 5 6 7 8 9 0 \u{1F} =
-        \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1D} ~
-        \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
-      0 \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . /
-  win:
-    default: |
-      | 1 2 3 4 5 6 7 8 9 0 + \
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ '
-      < z x c v b n m , . -
-    shift: |
-      § ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      | 1 2 3 4 5 6 7 8 9 0 + \
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ '
-      < Z X C V B N M , . -
-    caps+shift: |
-      § ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ *
-      > z x c v b n m ; : _
-    alt: |
-      \u{0} \u{0} @     £  $     € \u{0} {     [     ]     }     \u{0} ´
-            â     \u{0} €  \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
-            á     š     đ  ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
-      \u{0} ž     \u{0} č  ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
-    alt+shift: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-            Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
-            Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
-      \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
-    ctrl: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-  chrome:
-    default: |
-      | 1 2 3 4 5 6 7 8 9 0 + \
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ '
-      < z x c v b n m , . -
-    shift: |
-      § ! " # ¤ % & / ( ) = ? `
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ *
-      > Z X C V B N M ; : _
-    caps: |
-      | 1 2 3 4 5 6 7 8 9 0 + \
-        Q W E R T Y U I O P Å Ï
-        A S D F G H J K L Ö Æ '
-      < Z X C V B N M , . -
-    caps+shift: |
-      § ! " # ¤ % & / ( ) = ? `
-        q w e r t y u i o p å ï
-        a s d f g h j k l ö æ *
-      > z x c v b n m ; : _
-    alt: |
-      \u{0} \u{0} @     £  $     € \u{0} {     [     ]     }     \u{0} ´
-            â     \u{0} €  \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
-            á     š     đ  ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
-      \u{0} ž     \u{0} č  ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
-    alt+shift: |
-      \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
-            Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
-            Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
-      \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
-
-deadKeys:
-  mac:
-    default: [´]
+decimal: ','
+macOS:
+  primary:
+    layers:
+      default: |
+        ' 1 2 3 4 5 6 7 8 9 0 + ´
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ @
+        < z x c v b n m , . -
+      shift: |
+        § ! " # $ % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        ' 1 2 3 4 5 6 7 8 9 0 + ´
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ @
+        < Z X C V B N M , . -
+      alt: |
+        ' © ™ £ € ‸ § |             [ ] ˝ ± \u{301}
+          • , é ˇ þ ˘ ˀ             ʼ œ ˙ ˚ ¨
+          ¯ ß ð ƒ . ˛ \u{A0}\u{330} ˜ - ø ä '
+        ≤ ÷ ˍ ¸ ‹ › ‘ ’             ‚ … –
+      alt+shift: |
+        § ¡       ®       ¥       ¢       \u{32D} ¶       \       {       }       \u{30B} ¿       \u{300}
+          °       \u{326} É       \u{30C} Þ       \u{306} \u{309} \u{31B} Œ       \u{307} \u{30A} ˆ
+          \u{304} №       Ð       ʔ       \u{323} \u{328} \u{330} \u{303} \u{335} Ø       Ä       "
+        ≥ ⁄       \u{331} \u{327} «       »       “       ”       „       ·       —
+      ctrl: |
+        ` 1 2 3 4 5 6 7 8 9 0 \u{1F} =
+          \u{11} \u{17} \u{5} \u{12} \u{14} \u{19} \u{15} \u{9} \u{F} \u{10} \u{1D} ~
+          \u{1} \u{13} \u{4} \u{6} \u{7} \u{8} \u{A} \u{B} \u{C} ; ' \u{1C}
+        0 \u{1A} \u{18} \u{3} \u{16} \u{2} \u{E} \u{D} , . /
+      alt+caps: |
+        ' © ™ £ € ‸ § | [ ] ˝ ± \u{301}
+          • , É ˇ Þ ˘ ˀ ʼ Œ ˙ ˚ ¨
+          ¯ SS Ð ƒ . ˛ \u{A0}\u{330} ˜ - Ø Ä '
+        ≤ ÷ ˍ ¸ ‹ › ‘ ’ ‚ … –
+  space:
+    caps: \u{A0}
+    alt: \u{A0}
+    alt+shift: \u{A0}
+    cmd+alt: \u{A0}
+    alt+caps: \u{A0}
+  deadKeys:
+    default: ['´']
     shift: ['`']
-    caps: [´]
-    alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸, '\u{A0}\u{330}']
-    alt+shift: [ʔ, №, ˆ]
-    caps+alt: [¨, ',', '-', ., ¯, ¸, ʼ, ˀ, ˇ, ˍ, ˘, ˙, ˚, ˛, ˜, ˝, ‸]
-  win:
+    caps: ['´']
+    alt: ['¨', ',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸', '\u{A0}\u{330}']
+    alt+shift: ['ʔ', '№', 'ˆ']
+    alt+caps: ['¨', ',', '-', '.', '¯', '¸', 'ʼ', 'ˀ', 'ˇ', 'ˍ', '˘', '˙', '˚', '˛', '˜', '˝', '‸']
+windows:
+  config:
+    locale: sma-Latn-NO
+    languageName: Åarjelsaemien gïele (Nöörje)
+  primary:
+    layers:
+      default: |
+        | 1 2 3 4 5 6 7 8 9 0 + \
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ '
+        < z x c v b n m , . -
+      shift: |
+        § ! " # ¤ % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        | 1 2 3 4 5 6 7 8 9 0 + \
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ '
+        < Z X C V B N M , . -
+      caps+shift: |
+        § ! " # ¤ % & / ( ) = ? `
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ *
+        > z x c v b n m ; : _
+      alt: |
+        \u{0} \u{0} @     £  $     € \u{0} {     [     ]     }     \u{0} ´
+              â     \u{0} €  \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
+              á     š     đ  ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
+        \u{0} ž     \u{0} č  ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
+      alt+shift: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+              Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
+              Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
+        \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
+      ctrl: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+  deadKeys:
     shift: ['`']
     caps+shift: ['`']
-    alt: [¨, '~', ´]
-    alt+shift: [^]
-
+    alt: ['¨', '~', '´']
+    alt+shift: ['^']
+chromeOS:
+  config:
+    locale: nb
+    xkbLayout: 'no'
+  primary:
+    layers:
+      default: |
+        | 1 2 3 4 5 6 7 8 9 0 + \
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ '
+        < z x c v b n m , . -
+      shift: |
+        § ! " # ¤ % & / ( ) = ? `
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ *
+        > Z X C V B N M ; : _
+      caps: |
+        | 1 2 3 4 5 6 7 8 9 0 + \
+          Q W E R T Y U I O P Å Ï
+          A S D F G H J K L Ö Æ '
+        < Z X C V B N M , . -
+      caps+shift: |
+        § ! " # ¤ % & / ( ) = ? `
+          q w e r t y u i o p å ï
+          a s d f g h j k l ö æ *
+        > z x c v b n m ; : _
+      alt: |
+        \u{0} \u{0} @     £  $     € \u{0} {     [     ]     }     \u{0} ´
+              â     \u{0} €  \u{0} ŧ \u{0} \u{0} ï     õ     \u{0} \u{0} ¨
+              á     š     đ  ǥ     ǧ ȟ     \u{0} ǩ     \u{0} ø     ä     ~
+        \u{0} ž     \u{0} č  ǯ     ʒ ŋ     µ     \u{0} \u{0} \u{0}
+      alt+shift: |
+        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+              Â     \u{0} \u{0} \u{0} Ŧ     \u{0} \u{0} Ï     Õ     \u{0} \u{0} \u{0}
+              Á     Š     Đ     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ø     Ä     ^
+        \u{0} Ž     \u{0} Č     Ǯ     Ʒ     Ŋ     \u{0} \u{0} \u{0} \u{0}
 transforms:
   '\u{A0}\u{330}':
-    ' ': '\u{A0}\u{330}'
+    ' ': \u{A0}\u{330}
     e: ḛ
     E: Ḛ
     i: ḭ
@@ -163,8 +178,8 @@ transforms:
     S: Ș
     t: ț
     T: Ț
-  .:
-    ' ': .
+  '.':
+    ' ': '.'
     a: ạ
     A: Ạ
     b: ḅ
@@ -309,22 +324,22 @@ transforms:
     G: Ḡ
     i: ī
     I: Ī
-    l: 'l\u{323}\u{304}'
-    L: 'L\u{323}\u{304}'
+    l: l\u{323}\u{304}
+    L: L\u{323}\u{304}
     o: ō
     O: Ō
-    r: 'r\u{323}\u{304}'
-    R: 'R\u{323}\u{304}'
-    s: 's\u{304}'
-    S: 'S\u{304}'
+    r: r\u{323}\u{304}
+    R: R\u{323}\u{304}
+    s: s\u{304}
+    S: S\u{304}
     u: ū
     U: Ū
     v: ǖ
     V: Ǖ
     'y': ȳ
     'Y': Ȳ
-    z: 'z\u{304}'
-    Z: 'Z\u{304}'
+    z: z\u{304}
+    Z: Z\u{304}
     æ: ǣ
     Æ: Ǣ
   ˘:
@@ -398,7 +413,7 @@ transforms:
     o: ö
     O: Ö
     t: ẗ
-    T: 'T\u{308}'
+    T: T\u{308}
     u: ü
     U: Ü
     w: ẅ
@@ -411,16 +426,16 @@ transforms:
     ' ': ˚
     a: å
     A: Å
-    e: 'e\u{30A}'
-    E: 'E\u{30A}'
-    o: 'o\u{30A}'
-    O: 'O\u{30A}'
+    e: e\u{30A}
+    E: E\u{30A}
+    o: o\u{30A}
+    O: O\u{30A}
     u: ů
     U: Ů
     w: ẘ
-    W: 'W\u{30A}'
+    W: W\u{30A}
     'y': ẙ
-    'Y': 'Y\u{30A}'
+    'Y': Y\u{30A}
   ˝:
     ' ': ˝
     o: ő
@@ -451,8 +466,8 @@ transforms:
     S: Ş
     t: ţ
     T: Ţ
-    z: 'z\u{327}'
-    Z: 'Z\u{327}'
+    z: z\u{327}
+    Z: Z\u{327}
   ˛:
     ' ': ˛
     a: ą
@@ -481,10 +496,10 @@ transforms:
     I: Î
     j: ĵ
     J: Ĵ
-    m: 'm\u{302}'
-    M: 'M\u{302}'
-    'n': 'n\u{302}'
-    'N': 'N\u{302}'
+    m: m\u{302}
+    M: M\u{302}
+    'n': n\u{302}
+    'N': N\u{302}
     o: ô
     O: Ô
     s: ŝ
@@ -514,7 +529,7 @@ transforms:
     i: ǐ
     I: Ǐ
     j: ǰ
-    J: 'J\u{30C}'
+    J: J\u{30C}
     k: ǩ
     K: Ǩ
     l: ľ
@@ -533,8 +548,8 @@ transforms:
     U: Ǔ
     v: ǚ
     V: Ǚ
-    x: 'ʒ\u{30C}'
-    X: 'Ʒ\u{30C}'
+    x: ʒ\u{30C}
+    X: Ʒ\u{30C}
     z: ž
     Z: Ž
   ˍ:
@@ -544,7 +559,7 @@ transforms:
     d: ḏ
     D: Ḏ
     h: ẖ
-    H: 'H\u{331}'
+    H: H\u{331}
     k: ḵ
     K: Ḵ
     l: ḻ
@@ -691,21 +706,3 @@ transforms:
     u: ũ
     U: Ũ
 
-# Needed to get the numpad to output , instead of . as the decimal symbol:
-decimal: ','
-
-space:
-  mac:
-    caps: '\u{A0}'
-    alt: '\u{A0}'
-    alt+shift: '\u{A0}'
-    caps+alt: '\u{A0}'
-    cmd+alt: '\u{A0}'
-
-targets:
-  win:
-    locale: sma-Latn-NO
-    languageName: Åarjelsaemien gïele (Nöörje)
-  chrome:
-    locale: "nb"
-    xkbLayout: "no"
