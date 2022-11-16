@@ -22,6 +22,16 @@ android:
         Q W E R T Y U I O P Å
         A S D F G H J K L Ö Æ
         \s{shift} Z X C V B N M Ï \s{backspace}
+  tablet-600:
+    layers:
+      default: |
+        q w e r t y u i o p å
+        a s d f g h j k l ö æ
+        \s{shift} z x c v b n m ï \s{backspace}
+      shift: |
+        Q W E R T Y U I O P Å
+        A S D F G H J K L Ö Æ
+        \s{shift} Z X C V B N M Ï \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-sma?platform=mobile
@@ -230,7 +240,7 @@ longpress:
   t: ŧ ț ṱ ṯ
   z: ž ʒ ǯ
   '%': ‰ ∞
-  =: ≠ ≈
+  '=': ≠ ≈
   '-': • – —
   '&': §
   '?': ¿
