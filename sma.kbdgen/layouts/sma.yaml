@@ -253,19 +253,15 @@ keyNames:
   space: væhtagaske
   return: "linje\u00ADmålsome"
 #  return-alts:
-#    search: ohtsh  # when pressing the return key triggers a search
-#    go: rïhpesth  # when pressing the return key goes to or opens a URL
-#    send: seedth      # when pressing the return key sends e.g. an instant message
-#    join: dåeredh      # when pressing the return key joins a wifi net or similar
-#    cancel: sliejhtieh  # when pressing the return key cancels an action
-#    continue: jåerhkieh  # when pressing the return key continues a process
-#    done: galhkeme      # when pressing the return key finishes a process
-#    emergency: hiehtie  # when pressing the return key triggers an emergency call
-#    next: båetije           # when pressing the return key takes you to the next field or similar
-#    route: baalka         # when pressing the return key finds a route or some direction to go
-#  undo: saangerdh # or "symbol"
-#  redo: orresth # or "symbol"
-
-# When the string "symbol" is specified above, an OS specific symbol is used. For "return" that is typically ⏎,
-# for the other keys it is other symbols. "symbol" can be used both in cases where the word is too long to fit
-# the key, or one can not find a suitable translation for the key.
+#    search: ohtsh
+#    go: rïhpesth
+#    send: seedth
+#    join: dåeredh
+#    cancel: sliejhtieh
+#    continue: jåerhkieh
+#    done: galhkeme
+#    emergency: hiehtie
+#    next: båetije
+#    route: baalka
+#  undo: saangerdh
+#  redo: orresth
