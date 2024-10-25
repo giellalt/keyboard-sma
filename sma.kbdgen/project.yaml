@@ -23,6 +23,18 @@ locales:
       Boallobeavdi lullisámegiela várás Divvun- ja Giellatekno-joavkkuin UiT:s.
       Doaibmá Windowsis, macOS:s, Linuxis, ChromeOS:s, mátketelefovnnain ja dihtordulbosiin.
       Heivehuvvon Norgii ja Ruŧŧii.
+  sma:
+    name: Åarjelsaemien båaloebuertie
+    description: >-
+      Åarjelsaemien båaloebuertie UiT:n Divvun jïh Giellatekon-dåehkijste daelie
+      Windowsisnie, macOS:sne, Linuxisnie, ChromeOS:sne, mobiltelefovnide jïh
+      nehtepreerjine jåhta. Nöörjese jïh Sveerjese sjïehtesjovveme.
+  smj:
+    name: Oarjjelsáme boallobievde
+    description: >-
+      Oarjjelsáme boallobievde UiT:a Divvun- ja Giellatekno-juohkusijs.
+      Windowsij, macOS:aj, Linuxij, ChromeOS:aj, mobijlajda ja pettajda.
+      Hiebaduvvam Vuodnaj ja Svierigij.
   sv:
     name: Sydsamiska tangentbord
     description: >-
