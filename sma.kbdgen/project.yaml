@@ -2,12 +2,34 @@ locales:
   en:
     name: South Sami Keyboards
     description: >-
-      Mobile OS keyboards for the South Sami language from the Divvun group
-      at UiT.
+      Keyboards for South Sámi from the Divvun and Giellatekno groups at UiT.
+      For Windows, macOS, Linux, ChromeOS, smartphones and tablets.
+      Layouts for Norway and Sweden.
   nb:
-    name: Sørsamisk tastatur
-    description: Mobiltastatur for sørsamisk fra Divvun-gruppa.
-author: 'The Divvun Group, UiT Norgga árktalaš universitehta'
-copyright: (c) 2017 Divvun/Giellatekno/UiT
+    name: Sørsamiske tastatur
+    description: >-
+      Tastatur for sørsamisk fra Divvun-gruppa og Giellatekno-gruppene ved UiT.
+      For Windows, macOS, Linux, ChromeOS, mobiltelefoner og nettbrett.
+      Tilpasset for Finland, Norge og Sverige.
+  nn:
+    name: Sørsamiske tastatur
+    description: >-
+      Tastatur for sørsamisk frå Divvun- og Giellatekno-gruppene ved UiT.
+      For Windows, macOS, Linux, ChromeOS, mobiltelefonar og nettbrett.
+      Tilpassa for Noreg og Sverige.
+  se:
+    name: Lullisámi boallobeavdi
+    description: >-
+      Boallobeavdi lullisámegiela várás Divvun- ja Giellatekno-joavkkuin UiT:s.
+      Doaibmá Windowsis, macOS:s, Linuxis, ChromeOS:s, mátketelefovnnain ja dihtordulbosiin.
+      Heivehuvvon Norgii ja Ruŧŧii.
+  sv:
+    name: Sydsamiska tangentbord
+    description: >-
+      Tangentbord för sydsamiska från Divvun- och Giellatekno-grupperna ved UiT.
+      För Windows, macOS, Linux, ChromeOS, mobiltelefoner och surfplattor.
+      Anpassade för Norge och Sverige.
+author: 'The Divvun and Giellatekno Groups, UiT Norgga árktalaš universitehta'
+copyright: © 2024 Divvun/Giellatekno/UiT
 email: feedback@divvun.no
 organisation: UiT Norgga árktalaš universitehta
