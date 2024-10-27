@@ -11,6 +11,7 @@ is licensed under the LGPLv3 license, and the license is
 also detailed in the [LICENSE](LICENSE) file. The authors named
 in the AUTHORS file are available for other licensing options.
 
+
 Documentation:
 
 - [Language specific documentation](https://giellalt.github.io/keyboard-sma)
