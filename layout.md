@@ -6,7 +6,7 @@
 
 ## Åarjelsaemien gïele, Windows (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=windows&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=windows&variant=primary" height="100%" frameborder="0" ></iframe>
 
 ## Åarjelsaemien gïele, ChromeOS (Nöörje)
 
