@@ -10,7 +10,7 @@
 
 ## Åarjelsaemien gïele, ChromeOS (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=chromeOS&variant=primary"></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=chromeOS&variant=primary&center=true"></iframe>
 
 ## Åarjelsaemien gïele, Mac (Sveerje)
 
