@@ -1,49 +1,49 @@
-# Keyboard layout(s) for South Sámi
+# Keyboard layout(s) for South Sámi / Åarjelsaemien gïele
 
-## Åarjelsaemien gïele, Mac (Nöörje)
+## Mac (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" ></iframe>
 
-## Åarjelsaemien gïele, Windows (Nöörje)
+## Windows (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=windows&variant=primary" height="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=windows&variant=primary"></iframe>
 
-## Åarjelsaemien gïele, ChromeOS (Nöörje)
+## ChromeOS (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=chromeOS&variant=primary&center=true"></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=chromeOS&variant=primary"></iframe>
 
-## Åarjelsaemien gïele, Mac (Sveerje)
+## Mac (Sveerje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=macOS&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=macOS&variant=primary"></iframe>
 
-## Åarjelsaemien gïele, Windows (Sveerje)
+## Windows (Sveerje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=windows&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=windows&variant=primary"></iframe>
 
-## Åarjelsaemien gïele, ChromeOS (Sveerje)
+## ChromeOS (Sveerje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=chromeOS&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=chromeOS&variant=primary"></iframe>
 
-## Åarjelsaemien gïele, Android
+## Android
 
 ### Telefovne
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=primary"></iframe>
 
 ### Lohkemefealloe
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=tablet-600" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=tablet-600"></iframe>
 
-## Åarjelsaemien gïele, iOS/iPadOS
+## iOS/iPadOS
 
 ### Telefovne
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=primary"></iframe>
 
 ### 9" lohkemefealloe
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-9in" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-9in"></iframe>
 
 ### 12" lohkemefealloe
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-12in" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-12in"></iframe>
