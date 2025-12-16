@@ -2,7 +2,7 @@
 
 ## Åarjelsaemien gïele, Mac (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" width="100%" frameborder="0" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" frameborder="0" ></iframe>
 
 ## Åarjelsaemien gïele, Windows (Nöörje)
 
