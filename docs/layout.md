@@ -1,25 +1,49 @@
 # Keyboard layout(s) for South Sámi
 
-**Legend:**
+## Åarjelsaemien gïele, Mac (Nöörje)
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" width="100%" frameborder="0" ></iframe>
 
+## Åarjelsaemien gïele, Windows (Nöörje)
 
-# Åarjelsaemien gïele, Mac (Nöörje)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=windows&variant=primary" width="100%" frameborder="0" ></iframe>
 
-![](sma_NO-mac.svg)
+## Åarjelsaemien gïele, ChromeOS (Nöörje)
 
-# Åarjelsaemien gïele, Windows (Nöörje)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=chromeOS&variant=primary" width="100%" frameborder="0" ></iframe>
 
-![](sma_NO-windows.svg)
+## Åarjelsaemien gïele, Mac (Sveerje)
 
-# Åarjelsaemien gïele, Mac (Sveerje)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=macOS&variant=primary" width="100%" frameborder="0" ></iframe>
 
-![](sma_SE-mac.svg)
+## Åarjelsaemien gïele, Windows (Sveerje)
 
-# Åarjelsaemien gïele, Windows (Sveerje)
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=windows&variant=primary" width="100%" frameborder="0" ></iframe>
 
-![](sma_SE-windows.svg)
+## Åarjelsaemien gïele, ChromeOS (Sveerje)
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-SE&platform=chromeOS&variant=primary" width="100%" frameborder="0" ></iframe>
+
+## Åarjelsaemien gïele, Android
+
+### Telefovne
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=primary" width="100%" frameborder="0" ></iframe>
+
+### Lohkemefealloe
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=tablet-600" width="100%" frameborder="0" ></iframe>
+
+## Åarjelsaemien gïele, iOS/iPadOS
+
+### Telefovne
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=primary" width="100%" frameborder="0" ></iframe>
+
+### 9" lohkemefealloe
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-9in" width="100%" frameborder="0" ></iframe>
+
+### 12" lohkemefealloe
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-12in" width="100%" frameborder="0" ></iframe>
