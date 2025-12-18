@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Keyboard layout(s) for South Sámi / Åarjelsaemien gïele
 
 ## Mac (Nöörje)
