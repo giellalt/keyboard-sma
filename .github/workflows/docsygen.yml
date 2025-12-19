@@ -1,8 +1,6 @@
 name: Docs
 on:
   push:
-    paths-ignore:
-      - ‘*.kbdgen/**’
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -10,6 +8,16 @@ jobs:
       - uses: actions/checkout@v2
         with:
           path: keyboard
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        working-directory: keyboard
+      - name: Generate layout documentation
+        run: python scripts/generate-layout-docs.py
+        working-directory: keyboard
       - name: deploy gh pages
         uses: peaceiris/actions-gh-pages@v3
         with:
