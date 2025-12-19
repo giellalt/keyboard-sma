@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Keyboard layout(s) for South Sámi / Åarjelsaemien gïele
+# Keyboard layouts for South Sami / Åarjelsaemien gïele
 
 ## Mac (Nöörje)
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary" ></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma-NO&platform=macOS&variant=primary"></iframe>
 
 ## Windows (Nöörje)
 
@@ -30,24 +30,24 @@ layout: default
 
 ## Android
 
-### Telefovne
+### Phone
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=primary"></iframe>
 
-### Lohkemefealloe
+### Tablet
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=android&variant=tablet-600"></iframe>
 
 ## iOS/iPadOS
 
-### Telefovne
+### iPhone
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=primary"></iframe>
 
-### 9" lohkemefealloe
+### 9" iPad
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-9in"></iframe>
 
-### 12" lohkemefealloe
+### 12" iPad
 
 <iframe src="https://keyboard.giellalt.org/embed?kbd=sma&layout=sma&platform=iOS&variant=iPad-12in"></iframe>
