@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Documentation for the Southern Sami keyboards
 
 This repo defines several keyboards for South Sámi:

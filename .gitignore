@@ -19,5 +19,3 @@
 *.pkg
 *.bundle
 *.msi
-docs/_site
-.jekyll-cache
