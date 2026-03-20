@@ -13,10 +13,10 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r docs/requirements.txt
         working-directory: keyboard
       - name: Generate layout documentation
-        run: python scripts/generate-layout-docs.py
+        run: python docs/scripts/generate-layout-docs.py
         working-directory: keyboard
       - name: deploy gh pages
         uses: peaceiris/actions-gh-pages@v3
