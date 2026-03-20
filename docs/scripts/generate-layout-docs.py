@@ -157,6 +157,9 @@ def generate_layout_documentation():
     output.append('')
     output.append(title)
     output.append('')
+    output.append(
+        '> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, AltGr, etc.)')
+    output.append('')
 
     # Collect and process layouts
     layout_files = sorted(glob.glob(os.path.join(layouts_dir, '*.yaml')))
